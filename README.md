@@ -31,6 +31,11 @@ Matrix_in_Sight
 * opencv-python 3.4.0.12
 * tqdm 4.31.1
 
+### 模型下载
+通过百度网盘下载checkpoint文件夹至当前目录下：
+链接：https://pan.baidu.com/s/1tATB6WUHQ7fk7BhUI0xURA 
+提取码：tsv6 
+
 ### 电子版矩阵demo
 先将```yolov4_config.py```中```Customer_DATA```改为
 ```python
